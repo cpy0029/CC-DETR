@@ -1,1 +1,1 @@
-# C2-DETR
+# CC-DETR
